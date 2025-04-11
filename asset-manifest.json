@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/kumaresan-rk.github.io/reactfolio%20/static/css/main.fa7d76ae.css",
+    "main.js": "/kumaresan-rk.github.io/reactfolio%20/static/js/main.65ec93c6.js",
+    "static/js/787.512dd3f2.chunk.js": "/kumaresan-rk.github.io/reactfolio%20/static/js/787.512dd3f2.chunk.js",
+    "index.html": "/kumaresan-rk.github.io/reactfolio%20/index.html",
+    "main.fa7d76ae.css.map": "/kumaresan-rk.github.io/reactfolio%20/static/css/main.fa7d76ae.css.map",
+    "main.65ec93c6.js.map": "/kumaresan-rk.github.io/reactfolio%20/static/js/main.65ec93c6.js.map",
+    "787.512dd3f2.chunk.js.map": "/kumaresan-rk.github.io/reactfolio%20/static/js/787.512dd3f2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fa7d76ae.css",
+    "static/js/main.65ec93c6.js"
+  ]
+}
